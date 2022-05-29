@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    
+}
+
+.navbar {
+    background-color: #DFE6AE;
+}
+
+.quem-sou{
+    background-color: #BCCFA7;
+    color: white;
+    font-size: 30px;
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 50px;
+
+}
+
+.cursos{
+    background-color: #DFE6AE;
+
+}
+
+.habilidades {
+    background-color: #BCCFA7;
+    color: white;
+}
+
+.texto2 {
+    font-size: 25px;
+}
+.fotos {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+}
+
+.bg-footer{
+    background-color: #DFE6AE;
+    color: #black;
+
+}
